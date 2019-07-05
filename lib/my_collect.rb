@@ -8,5 +8,3 @@ def my_each(array) # put argument(s) here
     new_collection
   # code here
 end
-
-
