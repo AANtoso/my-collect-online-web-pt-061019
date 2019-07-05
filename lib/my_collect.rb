@@ -1,4 +1,4 @@
-def my_each(collection) # put argument(s) here
+def my_collect(collection) # put argument(s) here
   i = 0
   new_collection = []
   while i < collection.length
